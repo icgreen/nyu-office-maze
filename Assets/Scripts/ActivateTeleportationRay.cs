@@ -16,6 +16,6 @@ public class ActivateTeleportationRay : MonoBehaviour
     void Update()
     {
         leftTeleportation.SetActive(leftActive.action.ReadValue<float>() > 0.1f);
-        rightTeleportation.SetActive(rightActive.action.ReadValue<float>() > 0.1f);
+       // rightTeleportation.SetActive(rightActive.action.ReadValue<float>() > 0.1f);
     }
 }
