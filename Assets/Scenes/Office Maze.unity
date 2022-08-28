@@ -253,7 +253,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh25810
+  m_Name: pb_Mesh-4420
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -663,14 +663,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 68129272}
-  m_LocalRotation: {x: -0, y: 0.33533895, z: -0, w: 0.94209754}
-  m_LocalPosition: {x: -19.592918, y: 0.4725001, z: -10.647213}
+  m_LocalRotation: {x: 0.0012857747, y: 0.6924611, z: 0.020619215, w: 0.7211594}
+  m_LocalPosition: {x: -0.025000425, y: 0.02900138, z: 0.04400085}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 7
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Father: {fileID: 1346879464}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.53, y: 87.65, z: 1.807}
 --- !u!1001 &71088443
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1111,7 +1111,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-64054
+  m_Name: pb_Mesh30112
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -12667,7 +12667,7 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  m_AttachTransform: {fileID: 0}
+  m_AttachTransform: {fileID: 68129273}
   m_UseDynamicAttach: 0
   m_MatchAttachPosition: 1
   m_MatchAttachRotation: 1
@@ -12708,6 +12708,11 @@ MonoBehaviour:
   m_ForceGravityOnDetach: 0
   m_RetainTransformParent: 1
   m_AttachPointCompatibilityMode: 0
+--- !u!4 &1346879464 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7716552122868980985, guid: 01b1969c3beaf3547adc4515631f32ec, type: 3}
+  m_PrefabInstance: {fileID: 771842701}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1353446506
 GameObject:
   m_ObjectHideFlags: 0
