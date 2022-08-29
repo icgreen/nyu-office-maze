@@ -15,6 +15,8 @@ public class UnlockDoor : MonoBehaviour
     {
         if (other.gameObject.CompareTag("DoorCard"))
         {
+            Debug.Log("Card is in door trigger");
+
             if (door.activeInHierarchy)
             {
                 door.SetActive(false);

@@ -253,7 +253,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4420
+  m_Name: pb_Mesh-4468
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -1082,7 +1082,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh30112
+  m_Name: pb_Mesh-2292
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -6739,7 +6739,7 @@ PrefabInstance:
       objectReference: {fileID: 116371091}
     - target: {fileID: 7716552122868980982, guid: 01b1969c3beaf3547adc4515631f32ec, type: 3}
       propertyPath: m_VersionIndex
-      value: 4423
+      value: 4426
       objectReference: {fileID: 0}
     - target: {fileID: 7716552122868980984, guid: 01b1969c3beaf3547adc4515631f32ec, type: 3}
       propertyPath: m_Name
@@ -15587,7 +15587,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1583128757}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -16184,7 +16184,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1650121646}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -22275,15 +22275,11 @@ PrefabInstance:
       objectReference: {fileID: 23007925}
     - target: {fileID: 7716552122868980982, guid: 01b1969c3beaf3547adc4515631f32ec, type: 3}
       propertyPath: m_VersionIndex
-      value: 4423
+      value: 4426
       objectReference: {fileID: 0}
     - target: {fileID: 7716552122868980984, guid: 01b1969c3beaf3547adc4515631f32ec, type: 3}
       propertyPath: m_Name
       value: Library Entrance Card
-      objectReference: {fileID: 0}
-    - target: {fileID: 7716552122868980984, guid: 01b1969c3beaf3547adc4515631f32ec, type: 3}
-      propertyPath: m_TagString
-      value: DoorCard
       objectReference: {fileID: 0}
     - target: {fileID: 7716552122868980985, guid: 01b1969c3beaf3547adc4515631f32ec, type: 3}
       propertyPath: m_RootOrder
